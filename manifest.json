@@ -1,0 +1,20 @@
+{
+    "name": "Hola mundo desde PWA",
+    "short_name":"PWA",
+    "theme_color":"#FFF8DC",
+    "background_color":"#FFF8DC",
+    "display":"standalone",
+    "orietation":"portrait",
+    "start_url":"./",
+    "icons":[
+
+        {
+            "src":"./Pin.png",
+            "type":"image/png",
+            "sizes": "192x192"
+        }
+        
+
+        ]
+
+}
